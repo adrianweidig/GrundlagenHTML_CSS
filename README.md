@@ -1,4 +1,7 @@
 # HTML/CSS Grundlagenkurs 
+
+> ab 26.01.2024 keine Änderungen mehr - aktueller Freeze-Zustand und keine weitere Bearbeitung
+
 # (Ab 26.01.2024 nicht mehr weiter bearbeitet)
 
 Git-Repo dient zum Abgleich eigener Lösungen und zukünftiger Wiederholung und persönlicher Retrospektive.
